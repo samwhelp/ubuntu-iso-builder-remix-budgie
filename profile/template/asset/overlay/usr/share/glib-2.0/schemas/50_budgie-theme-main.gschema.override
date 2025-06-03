@@ -1,15 +1,15 @@
 
 
 [org.gnome.desktop.wm.preferences:Budgie]
-theme='Fluent-round-Dark'
+theme='Orchis-Dark'
 
 
 [org.gnome.desktop.interface:Budgie]
-cursor-theme='Fluent-dark-cursors'
+cursor-theme='breeze_cursors'
 cursor-size=24
 gtk-key-theme='Default'
-gtk-theme='Fluent-round-Dark'
-icon-theme='Fluent-dark'
+gtk-theme='Orchis-Dark'
+icon-theme='Papirus-Dark'
 color-scheme='prefer-dark'
 gtk-color-scheme=''
 
